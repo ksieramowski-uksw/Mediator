@@ -3,6 +3,11 @@
 
 #include "ConcreteMediator.h"
 
+/*
+
+	zmiana w pliku _main.cpp
+
+*/
 
 void ClientCode() {
 	Component1* c1 = new Component1;
